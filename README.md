@@ -22,6 +22,8 @@ Caso não consiga cumprir o desafio dentro das 48 horas, justifique por que não
 
 Não use frameworks ou bibliotecas que implementem a solução do problema. Você pode usar frameworks para implementar entradas de dados, UI e outras características que não fazem parte do problema em si.
 
+Desenvolva a solução na linguagem de programação que julgar mais adequada para a resolução do problema. 
+
 # O Problema
 
 Escreva um software que converta um número inteiro sem sinal em sua representação por extenso na língua portuguesa. Na representação por extenso devem ser respeitadas as regras de pontuação. Veja os exemplos:
