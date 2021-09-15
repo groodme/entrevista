@@ -20,6 +20,9 @@ Caso o pull request não seja realizado em 48 horas, você estará automaticamen
 
 Caso não consiga cumprir o desafio dentro das 48 horas, justifique por que não conseguiu dentro do arquivo _DOC.md_ e faça o pull request dentro do prazo para que o que você fez seja avaliado.
 
+Não é preciso usar um SGDB para salvar os dados. Pode-se manter o Sqlite padrão para sua solução. 
+
+Utilize apenas o Django. Não use apps prontos do Pypi.
 # Especificação do desafio
 
 Crie um site Django que tenha as seguintes funcionalidades:
